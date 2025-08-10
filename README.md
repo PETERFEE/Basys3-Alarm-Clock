@@ -87,7 +87,7 @@ After a few seconds, the FPGA will be programmed, and your alarm clock will appe
 
 ---
 ## User Manual
-![Basys3 Board picture](IMG_1570.png)
+<img src="IMG_1570.jpg" width="300" />
 ### Controls Layout
 Your alarm clock is controlled by four main slide switches (S0-S3) and one push button (BTNC for Reset).
 

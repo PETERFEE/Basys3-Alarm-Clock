@@ -4,7 +4,7 @@ This repository contains the complete Vivado project for a 24-hour digital alarm
 
 The project features a large 7-segment display, simple controls for setting the time and alarm, and a highly visible flashing LED alert system. This guide provides all the necessary steps to download, set up, and run the project on your own board.
 
-![Basys3 Board](https://digilent.com/reference/_media/basys3:basys3_board.png)
+![Basys3 Board](basys3_hardware_walkaround.png)
 
 ---
 ## How to Run This Project

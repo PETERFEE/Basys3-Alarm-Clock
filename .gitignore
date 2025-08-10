@@ -1,0 +1,17 @@
+# Vivado-generated files
+/.Xil/
+/implementation/
+/synthesis/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xpr
+*.log
+*.jou
+webtalk*.xml
+webtalk*.jou
+xsim.dir/
+.Xilinx/
